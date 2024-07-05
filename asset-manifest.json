@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a907688f.css",
-    "main.js": "/static/js/main.32c6107b.js",
+    "main.js": "/static/js/main.40ae3ce6.js",
     "static/js/453.f42a5599.chunk.js": "/static/js/453.f42a5599.chunk.js",
     "static/media/tad_intro1.png": "/static/media/tad_intro1.ab575d3f369796fadf73.png",
     "static/media/tad_intro2.png": "/static/media/tad_intro2.853428ccc005ca9c89b3.png",
@@ -20,11 +20,11 @@
     "static/media/appstore.png": "/static/media/appstore.0a81d0fe5d385d0688bc.png",
     "index.html": "/index.html",
     "main.a907688f.css.map": "/static/css/main.a907688f.css.map",
-    "main.32c6107b.js.map": "/static/js/main.32c6107b.js.map",
+    "main.40ae3ce6.js.map": "/static/js/main.40ae3ce6.js.map",
     "453.f42a5599.chunk.js.map": "/static/js/453.f42a5599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a907688f.css",
-    "static/js/main.32c6107b.js"
+    "static/js/main.40ae3ce6.js"
   ]
 }
