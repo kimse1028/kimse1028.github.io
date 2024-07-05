@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bf76a93.css",
+    "main.js": "/static/js/main.46e9a47f.js",
+    "static/js/453.f42a5599.chunk.js": "/static/js/453.f42a5599.chunk.js",
+    "static/media/tad_intro1.png": "/static/media/tad_intro1.ab575d3f369796fadf73.png",
+    "static/media/tad_intro2.png": "/static/media/tad_intro2.853428ccc005ca9c89b3.png",
+    "static/media/tad_intro3.png": "/static/media/tad_intro3.894fd2b76e35d7afbf4e.png",
+    "static/media/09.png": "/static/media/09.3cf55ce9895a6103b3a4.png",
+    "static/media/08.png": "/static/media/08.eae3f365e11df6a08ece.png",
+    "static/media/05.png": "/static/media/05.cc6be08db502e8ca535e.png",
+    "static/media/06.png": "/static/media/06.f678c8c21601a4d9c2c1.png",
+    "static/media/TadpoleDiary_background.png": "/static/media/TadpoleDiary_background.2419f1ab5f98a16dad05.png",
+    "static/media/07.png": "/static/media/07.f1406bad6693ac2e7007.png",
+    "static/media/TadpoleDiary_title_logo_main.png": "/static/media/TadpoleDiary_title_logo_main.3796179059655b5859f0.png",
+    "static/media/PartialSansKR-Regular.otf": "/static/media/PartialSansKR-Regular.3788df4812a626e9a2ca.otf",
+    "static/media/TadpoleDiary_title_logo_col.png": "/static/media/TadpoleDiary_title_logo_col.fc35a8c7acc8bdcc54cb.png",
+    "static/media/ggnz_new.png": "/static/media/ggnz_new.1536ec5647830f8ef42a.png",
+    "static/media/googleplay.png": "/static/media/googleplay.9c5788a696a0077779ac.png",
+    "static/media/appstore.png": "/static/media/appstore.0a81d0fe5d385d0688bc.png",
+    "index.html": "/index.html",
+    "main.1bf76a93.css.map": "/static/css/main.1bf76a93.css.map",
+    "main.46e9a47f.js.map": "/static/js/main.46e9a47f.js.map",
+    "453.f42a5599.chunk.js.map": "/static/js/453.f42a5599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf76a93.css",
+    "static/js/main.46e9a47f.js"
+  ]
+}
